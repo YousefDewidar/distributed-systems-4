@@ -1,6 +1,11 @@
 
 This repository contains a small RPC-based chatroom (server + client) implemented in Go.
 
+demo:
+
+https://github.com/user-attachments/assets/ce27d3bb-a11c-4474-8efb-7573590bf9a4
+
+
 Usage (Windows PowerShell):
 
 1. Start the server (default address 127.0.0.1:1234):
